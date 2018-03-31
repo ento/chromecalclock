@@ -1301,7 +1301,91 @@
   "tz_Funafuti": {
     "message": "Funafuti"
   },
-  "json_end": {
+  "tz_Etc": {
+    "message": "Etc"
+  },
+  "tz_GMT__1": {
+    "message": "GMT-1"
+  },
+  "tz_GMT__2": {
+    "message": "GMT-2"
+  },
+  "tz_GMT__3": {
+    "message": "GMT-3"
+  },
+  "tz_GMT__4": {
+    "message": "GMT-4"
+  },
+  "tz_GMT__5": {
+    "message": "GMT-5"
+  },
+  "tz_GMT__6": {
+    "message": "GMT-6"
+  },
+  "tz_GMT__7": {
+    "message": "GMT-7"
+  },
+  "tz_GMT__8": {
+    "message": "GMT-8"
+  },
+  "tz_GMT__9": {
+    "message": "GMT-9"
+  },
+  "tz_GMT__10": {
+    "message": "GMT-10"
+  },
+  "tz_GMT__11": {
+    "message": "GMT-11"
+  },
+  "tz_GMT__12": {
+    "message": "GMT-12"
+  },
+  "tz_GMT__13": {
+    "message": "GMT-13"
+  },
+  "tz_GMT__14": {
+    "message": "GMT-14"
+  },
+  "tz_GMT____1": {
+    "message": "GMT+1"
+  },
+  "tz_GMT____2": {
+    "message": "GMT+2"
+  },
+  "tz_GMT____3": {
+    "message": "GMT+3"
+  },
+  "tz_GMT____4": {
+    "message": "GMT+4"
+  },
+  "tz_GMT____5": {
+    "message": "GMT+5"
+  },
+  "tz_GMT____6": {
+    "message": "GMT+6"
+  },
+  "tz_GMT____7": {
+    "message": "GMT+7"
+  },
+  "tz_GMT____8": {
+    "message": "GMT+8"
+  },
+  "tz_GMT____9": {
+    "message": "GMT+9"
+  },
+  "tz_GMT____10": {
+    "message": "GMT+10"
+  },
+  "tz_GMT____11": {
+    "message": "GMT+11"
+  },
+  "tz_GMT____12": {
+    "message": "GMT+12"
+  },
+  "tz_UTC": {
+    "message": "UTC"
+  },
+ "json_end": {
     "message": "json_end"
   }
 }

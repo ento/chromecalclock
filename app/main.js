@@ -32,7 +32,7 @@ function makeTicks() {
 }
 
 function getTzMessage(name) {
-  return chrome.i18n.getMessage('tz_' + name.replace('/', '___').replace('-', '__'));
+  return chrome.i18n.getMessage('tz_' + name.replace('/', '___').replace('-', '__').replace('+', '____'));
 }
 
 function getChromeTimeZone(timezone) {
